@@ -1,6 +1,6 @@
 # Javascript Piano Keyboard
 
-Here is the <a href="https://rohitkrtiwari.github.io/portfolio/" target="_blank">JavaScript piano keyboard</a> I made.
+Here is the <a href="https://rohitkrtiwari.github.io/piano/" target="_blank">JavaScript piano keyboard</a> I made.
 
 ## Screenshot
 
