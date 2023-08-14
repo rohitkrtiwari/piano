@@ -1,14 +1,12 @@
 # Javascript Piano Keyboard
 
-Here is the <a href="https://rohitkrtiwari.github.io/piano/" target="_blank">JavaScript piano keyboard</a> I made.
+Play melodies with a virtual touch - a web-based piano brought to life through JavaScript
+
+Click here to play: <a href="https://rohitkrtiwari.github.io/piano/" target="_blank">(piano_link)</a>.
 
 ## Screenshot
 
 ![App Screenshot](screenshot.png)
-
-
-## 🚀 About Me
-I'm a full stack developer...
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rohitkrtiwari.github.io/Portfolio)
